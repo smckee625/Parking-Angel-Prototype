@@ -1,0 +1,8 @@
+{
+  "appId": "com.ParkingAngel",
+  "appName": "Parking-Angel",
+  "webDir": "public",
+  "server": {
+    "androidScheme": "https"
+  }
+}
