@@ -22,7 +22,9 @@
     "@capacitor/android": "^5.5.0",
     "@capacitor/cli": "^5.5.0",
     "@capacitor/core": "^5.5.0",
+    "@capacitor/geolocation": "^5.0.6",
     "@capacitor/ios": "^5.5.0",
+    "csvtojson": "^2.0.10",
     "sirv-cli": "^2.0.0"
   }
 }
