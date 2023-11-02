@@ -7,4 +7,4 @@
 
 4. Android - Run: `npx cap open android` this will open android studio were you can run the app in an emulator. Altenrativly if you enable 'devloper options -> usb debugging' on your android device and plug it into your computer you can install the app on device. To run the app simply click the green ’Run app’ button in android studio.
 
-4. iOS - Haven't got an iOS device but will require you to run: `npx cap open ios` and then from there build and run the app. More info (https://capacitorjs.com/docs/ios)
+   iOS - Haven't got an iOS device but will require you to run: `npx cap open ios` and then from there build and run the app. More info (https://capacitorjs.com/docs/ios)
